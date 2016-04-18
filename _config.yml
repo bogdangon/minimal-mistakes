@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Photo art escape"
+title                    : Photo art escape
 title_separator          : "-"
-name                     : "Bogdan Goncharenko"
-description              : "Art of photography lives here."
-url                      : "http://photoartescape.com"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : Bogdan Goncharenko
+description              : Art of photo lives here.
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,9 +61,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Bogdan Goncharenko"
+  name             : Bogdan Goncharenko
   avatar           : "bio-photo.jpg"
-  bio              : "Photo art is my passion"
+  bio              : “Art of photography is my passion.”
   location         : "Maple, Canada"
   email            :
   uri              :
